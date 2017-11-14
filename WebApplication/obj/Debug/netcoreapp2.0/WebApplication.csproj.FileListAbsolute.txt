@@ -1,0 +1,11 @@
+C:\Users\Ded\Documents\Visual Studio 2017\Projects\WebApplication\WebApplication\bin\Debug\netcoreapp2.0\WebApplication.deps.json
+C:\Users\Ded\Documents\Visual Studio 2017\Projects\WebApplication\WebApplication\bin\Debug\netcoreapp2.0\WebApplication.runtimeconfig.json
+C:\Users\Ded\Documents\Visual Studio 2017\Projects\WebApplication\WebApplication\bin\Debug\netcoreapp2.0\WebApplication.runtimeconfig.dev.json
+C:\Users\Ded\Documents\Visual Studio 2017\Projects\WebApplication\WebApplication\bin\Debug\netcoreapp2.0\WebApplication.dll
+C:\Users\Ded\Documents\Visual Studio 2017\Projects\WebApplication\WebApplication\obj\Debug\netcoreapp2.0\WebApplication.csprojResolveAssemblyReference.cache
+C:\Users\Ded\Documents\Visual Studio 2017\Projects\WebApplication\WebApplication\obj\Debug\netcoreapp2.0\WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\Ded\Documents\Visual Studio 2017\Projects\WebApplication\WebApplication\obj\Debug\netcoreapp2.0\WebApplication.AssemblyInfoInputs.cache
+C:\Users\Ded\Documents\Visual Studio 2017\Projects\WebApplication\WebApplication\obj\Debug\netcoreapp2.0\WebApplication.AssemblyInfo.cs
+C:\Users\Ded\Documents\Visual Studio 2017\Projects\WebApplication\WebApplication\bin\Debug\netcoreapp2.0\WebApplication.pdb
+C:\Users\Ded\Documents\Visual Studio 2017\Projects\WebApplication\WebApplication\obj\Debug\netcoreapp2.0\WebApplication.dll
+C:\Users\Ded\Documents\Visual Studio 2017\Projects\WebApplication\WebApplication\obj\Debug\netcoreapp2.0\WebApplication.pdb
